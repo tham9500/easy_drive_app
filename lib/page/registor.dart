@@ -137,7 +137,8 @@ class _registor_pageState extends State<registor_page> {
           print("Email : ${email.text}");
           print("Password : ${password.text}");
           print("Confirm Password : ${confirm_password.text}");
-         
+          print("Confirm Password : ${confirm_password.text}");
+          print("Confirm Password : ${confirm_password.text}");
         },
         child: Text(
           "Registor",
