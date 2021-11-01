@@ -92,6 +92,7 @@ class _login_pageState extends State<login_page> {
       child: MaterialButton(
         onPressed: () {
           print("username : ${username.text}");
+          print("username : ${username.text}");
           print("password : ${password.text}");
           print("password : ${password.text}");
         },
